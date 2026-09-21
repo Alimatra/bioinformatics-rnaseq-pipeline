@@ -1,0 +1,19 @@
+# Python environment
+.venv/
+
+# Raw sequencing data
+data/raw/
+
+# Processed sequencing data
+data/trimmed/
+data/filtered/
+
+# FastQC outputs
+data/qc/
+results/qc/
+
+# Temporary / local files
+home.lnk
+
+# Logs
+*.log
